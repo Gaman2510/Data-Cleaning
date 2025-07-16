@@ -1,4 +1,4 @@
-##🛍️ Online Retail Sales Data Cleaning, Preprocessing & EDA
+#🛍️ Online Retail Sales Data Cleaning, Preprocessing & EDA
 
 This project involves cleaning, transforming, and performing Exploratory Data Analysis (EDA) on an Online Retail Sales dataset using Python and pandas. The workflow covers all essential steps to prepare the dataset for future analytics or machine learning applications.
 
