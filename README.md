@@ -1,10 +1,10 @@
-🛍️ **Online Retail Sales Data Cleaning, Preprocessing & EDA**
+##🛍️ Online Retail Sales Data Cleaning, Preprocessing & EDA
 
 This project involves cleaning, transforming, and performing Exploratory Data Analysis (EDA) on an Online Retail Sales dataset using Python and pandas. The workflow covers all essential steps to prepare the dataset for future analytics or machine learning applications.
 
 
 -----
-📁 **Project Structure**
+##📁 Project Structure
 
 project 2.ipynb: The main Jupyter Notebook for data loading, cleaning, and EDA.
 
@@ -15,7 +15,7 @@ Data online.xlsx: Final cleaned and transformed data exported to Excel.
 
 
 -----
-🎯 **Project Objectives**
+##🎯 Project Objectives
 
 Load and inspect the dataset.
 
@@ -30,7 +30,7 @@ Perform exploratory data analysis to understand trends and outliers.
 
 
 -----
-🧽**Data Cleaning & Transformation**
+##🧽Data Cleaning & Transformation
 
 Handled null values, especially in CustomerID.
 
@@ -53,7 +53,7 @@ Added prefix "C" to numeric invoice numbers for uniformity.
 
 
 -----
-📊 **Exploratory Data Analysis (EDA)**
+##📊 Exploratory Data Analysis (EDA)
 
 The project includes basic EDA using pandas to derive insights such as:
 
@@ -73,7 +73,7 @@ These insights help identify business patterns, high-performing SKUs, and potent
 
 
 -----
-📦 **Technologies Used**
+##📦 Technologies Used
 
 Python 3
 
@@ -89,7 +89,7 @@ Excel I/O (via to_excel)
 
 
 ------
-🚀 **How to Run**
+##🚀 How to Run
 
 1. Clone this repository.
 
@@ -110,7 +110,7 @@ jupyter notebook "project 2.ipynb"
 
 
 -----
-📌 **Output Summary**
+##📌 Output Summary
 
 Cleaned and standardized dataset saved as Excel.
 
